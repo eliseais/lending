@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+body
+{
+    background-color: #242222;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+header nav
+{
+    display: flex;
+
+    padding: 15px 20px 0 20px;
+
+    justify-content: space-between;
+}
+
+.logo
+{
+    width: 6vw;
+    height: 6vw;
+}
+
+h1
+{
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    line-height: 6vw;
+
+    margin-top: 10vw;
+    margin-right: 9vw;
+    margin-left: 16vw;
+
+    color: white;
+}
+
+h2
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    line-height: 4vw;
+
+    margin-top: 3vw;
+    margin-right: 11vw;
+    margin-left: 16vw;
+
+    color: #dedcdc;
+}
+
+h3
+{
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    line-height: 6vw;
+
+    margin-top: 14vw;
+    margin-right: 9vw;
+    margin-left: 16vw;
+
+    color: white;
+}
+
+h4
+{
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    line-height: 6vw;
+
+    margin-top: 14vw;
+    margin-right: 9vw;
+    margin-left: 12vw;
+
+    color: white;
+}
+
+h5
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    line-height: 4vw;
+
+    margin-top: 3vw;
+    margin-right: 7vw;
+    margin-left: 9vw;
+
+    color: #dedcdc;
+
+    align-items: center;
+}
+
+a
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    font-weight: 700;
+
+    color: #dedcdc;
+}
+
+p
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
+
+    margin-top: 28vw;
+    margin-right: 13vw;
+    margin-bottom: 6vw;
+    margin-left: 27vw;
+
+    color: white;
+}
+
+.foo
+{
+    width: 38vw;
+    height: 6vw;
+    margin-top: 7vw;
+}
+
+.reda
+{
+    width: 80vw;
+    height: 79vw;
+    margin-left: 20vw;
+}
+
+.green
+{
+    width: 68vw;
+    height: 79vw;
+    margin-left: -21vw;
+}
+
+.fooo
+{
+    width: 38vw;
+    height: 6vw;
+    margin-top: 7vw;
+    margin-left: 55vw;
+}
+
+.fio
+{
+    width: 77vw;
+    height: 68vw;
+    margin-top: 3vw;
+    margin-left: 16vw;
+}
+
+header
+{
+    position: fixed;
+    z-index: 1;
+
+    width: 100%;
+    min-width: 768px;
+    margin-top: -9vw;
+}
+
+.knopki
+{
+    margin-top: 15vw;
+}
+
+.lol
+{
+    font-size: 2vw;
+    font-weight: 700;
+
+    display: inline-block;
+
+    margin-top: 20px;
+    margin-left: 19vw;
+    padding: 9px 30px;
+
+    text-decoration: none;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    background: linear-gradient(180deg, rgba(234, 56, 54, .75) 0%, rgba(234, 56, 54, .3) 119.05%);
+}
+
+.kok
+{
+    font-size: 2vw;
+
+    display: inline-block;
+
+    margin-top: 20px;
+    margin-left: 8vw;
+    padding: 9px 30px;
+
+    text-decoration: none;
+
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 6px 12px;
+}
