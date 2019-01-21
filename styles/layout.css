@@ -12,7 +12,7 @@ header nav
 {
     display: flex;
 
-    padding: 15px 20px 0 20px;
+    padding: 2vw 6vw 0 2vw;
 
     justify-content: space-between;
 }
@@ -96,7 +96,7 @@ h5
 a
 {
     font-family: 'Roboto', sans-serif;
-    font-size: 3vw;
+    font-size: 2vw;
     font-weight: 700;
 
     color: #dedcdc;
@@ -175,7 +175,7 @@ header
     display: inline-block;
 
     margin-top: 20px;
-    margin-left: 19vw;
+    margin-left: 24vw;
     padding: 9px 30px;
 
     text-decoration: none;
@@ -183,7 +183,7 @@ header
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
-    background: linear-gradient(180deg, rgba(234, 56, 54, .75) 0%, rgba(234, 56, 54, .3) 119.05%);
+    background: grey;
 }
 
 .kok
@@ -193,7 +193,7 @@ header
     display: inline-block;
 
     margin-top: 20px;
-    margin-left: 8vw;
+    margin-left: 5vw;
     padding: 9px 30px;
 
     text-decoration: none;
