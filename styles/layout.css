@@ -25,94 +25,94 @@ header nav
 
 h1
 {
-    font: inherit;
-    font-family: 'Roboto', sans-serif;
-    font-size: 5vw;
-    line-height: 6vw;
-
     margin-top: 10vw;
     margin-right: 9vw;
     margin-left: 16vw;
 
     color: white;
+
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    line-height: 6vw;
 }
 
 h2
 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 3vw;
-    line-height: 4vw;
-
     margin-top: 3vw;
     margin-right: 11vw;
     margin-left: 16vw;
 
     color: #dedcdc;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    line-height: 4vw;
 }
 
 h3
 {
-    font: inherit;
-    font-family: 'Roboto', sans-serif;
-    font-size: 5vw;
-    line-height: 6vw;
-
     margin-top: 14vw;
     margin-right: 9vw;
     margin-left: 16vw;
 
     color: white;
-}
 
-h4
-{
     font: inherit;
     font-family: 'Roboto', sans-serif;
     font-size: 5vw;
     line-height: 6vw;
+}
 
+h4
+{
     margin-top: 14vw;
     margin-right: 9vw;
     margin-left: 12vw;
 
     color: white;
+
+    font: inherit;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+    line-height: 6vw;
 }
 
 h5
 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 3vw;
-    line-height: 4vw;
-
     margin-top: 3vw;
     margin-right: 7vw;
     margin-left: 9vw;
 
     color: #dedcdc;
 
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    line-height: 4vw;
+
     align-items: center;
 }
 
 a
 {
+    color: #dedcdc;
+
     font-family: 'Roboto', sans-serif;
     font-size: 2vw;
     font-weight: 700;
-
-    color: #dedcdc;
 }
 
 p
 {
-    font-family: 'Roboto', sans-serif;
-    font-size: 2vw;
-
     margin-top: 28vw;
     margin-right: 13vw;
     margin-bottom: 6vw;
     margin-left: 27vw;
 
     color: white;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
 }
 
 .foo
@@ -165,17 +165,15 @@ header
 .knopki
 {
     margin-top: 15vw;
+
+    text-align: center;
 }
 
 .lol
 {
-    font-size: 2vw;
-    font-weight: 700;
-
     display: inline-block;
 
     margin-top: 20px;
-    margin-left: 24vw;
     padding: 9px 30px;
 
     text-decoration: none;
@@ -184,12 +182,13 @@ header
     border-style: solid;
     border-radius: 5px;
     background: grey;
+
+    font-size: 2vw;
+    font-weight: 700;
 }
 
 .kok
 {
-    font-size: 2vw;
-
     display: inline-block;
 
     margin-top: 20px;
@@ -203,4 +202,6 @@ header
     border-style: solid;
     border-radius: 5px;
     box-shadow: 0 6px 12px;
+
+    font-size: 2vw;
 }
