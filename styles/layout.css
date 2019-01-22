@@ -12,7 +12,7 @@ header nav
 {
     display: flex;
 
-    padding: 2vw 11vw 0 2vw;
+    padding: 3vw 111vw 0 2vw;
 
     justify-content: space-between;
 }
@@ -204,4 +204,11 @@ header
     box-shadow: 0 6px 12px;
 
     font-size: 2vw;
+}
+@media (min-width: 768px)
+{
+
+header nav {
+  padding: 2vw 5vw 0px 1vw;
+}
 }
